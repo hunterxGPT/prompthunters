@@ -1,4 +1,4 @@
-# Chat GPT Prompts
+# GPT Prompts
 Hi!
 These are some exploits, jailbreaks, tricks, whatever you want to call them I've collected and discovered over time.
 ## Note
